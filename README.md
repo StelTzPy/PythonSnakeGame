@@ -32,3 +32,7 @@ Game loops and rendering
 
 Note:
 SnakeGame is a safe, lightweight project ideal for coders just starting out with Python. It’s perfect for showcasing early game dev skills or just having a bit of nostalgic fun!
+
+<img width="1067" alt="Στιγμιότυπο οθόνης 2025-06-02 190944" src="https://github.com/user-attachments/assets/8f906491-305d-4fff-be3c-a771b7a63c6e" />
+
+<img width="998" alt="Στιγμιότυπο οθόνης 2025-06-02 190901" src="https://github.com/user-attachments/assets/f1254009-c0e7-46dc-9bc8-01ede3b60819" />
